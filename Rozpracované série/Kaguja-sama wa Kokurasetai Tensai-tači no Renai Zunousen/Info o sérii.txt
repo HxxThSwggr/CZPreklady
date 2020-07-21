@@ -1,13 +1,13 @@
------------------[Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen]-----------------
+-----------------[Kaguja-sama wa Kokurasetai: Tensai-tači no Renai Zunousen]-----------------
 
 Originální název:        かぐや様は告らせたい～天才たちの恋愛頭脳戦～
 Anglický název:          Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
-Český překlad:           Kaguja-sama chce přiznání: Romantická válka géniů
+Český překlad:           Kaguja ho chce donutit k přiznání: Válka myslí a srdcí mezi génii
 
 Typ:                     Seriál
 Počet epizod:            12
 Doba vysílání:           12. ledna - 30. března 2019
-Adaptováno z:            Akasaka Aka - Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen (Manga)
+Adaptováno z:            Akasaka Aka - Kaguja-sama wa Kokurasetai: Tensai-tači no Renai Zunousen (Manga)
 
 Původní Aegisub skript:  [Good Job! Media] https://nyaa.si/user/GoodJobMedia?f=0&c=0_0&q=kaguya+-S2
 Synchronizované s:       [GSK_kun] https://nyaa.si/view/1192908
@@ -16,7 +16,8 @@ Synchronizované s:       [GSK_kun] https://nyaa.si/view/1192908
 Stav překladu: [0 / 12]
 Ep - Stav
 
-01 - Překládání
+01 - Typeset: 100%
+   - Překlad: 20%
 02 - Nerozděláno
 03 - Nerozděláno
 04 - Nerozděláno
