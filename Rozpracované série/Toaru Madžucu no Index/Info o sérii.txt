@@ -16,7 +16,7 @@ Původní Aegisub skript:		 [MoeDesuDesu] https://nyaa.si/view/1056433
 Synchronizované s:		 [VCB-Studio] https://nyaa.si/view/1080598
 
 
-Stav překladu: [7 / 24]
+Stav překladu: [9 / 24]
 
 ---- Index Arc ----
 01 - Dokončeno
@@ -29,7 +29,7 @@ Stav překladu: [7 / 24]
 ---- Misawa Cram School Arc ----
 07 - Dokončeno
 08 - Dokončeno
-09 - Překládání
+09 - Dokončeno
 
 ---- Sisters Arc ----
 10 - Upravování původního skriptu
