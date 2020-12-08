@@ -32,11 +32,11 @@ Stav překladu: [9 / 24]
 09 - Dokončeno
 
 ---- Sisters Arc ----
-10 - Upravování původního skriptu
-11 - Upravování původního skriptu
-12 - Upravování původního skriptu
-13 - Upravování původního skriptu
-14 - Upravování původního skriptu
+10 - Překládání
+11 - Čeká na překlad
+12 - Čeká na překlad
+13 - Čeká na překlad
+14 - Čeká na překlad
 
 ---- Angel Fall Arc ----
 15 - Nerozděláno
