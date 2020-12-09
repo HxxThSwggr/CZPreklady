@@ -32,7 +32,7 @@ Stav překladu: [9 / 24]
 09 - Dokončeno
 
 ---- Sisters Arc ----
-10 - Překládání
+10 - Dokončeno
 11 - Čeká na překlad
 12 - Čeká na překlad
 13 - Čeká na překlad
