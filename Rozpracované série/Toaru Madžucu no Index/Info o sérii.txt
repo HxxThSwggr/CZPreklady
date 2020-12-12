@@ -16,7 +16,7 @@ Původní Aegisub skript:		 [MoeDesuDesu] https://nyaa.si/view/1056433
 Synchronizované s:		 [VCB-Studio] https://nyaa.si/view/1080598
 
 
-Stav překladu: [9 / 24]
+Stav překladu: [11 / 24]
 
 ---- Index Arc ----
 01 - Dokončeno
@@ -33,7 +33,7 @@ Stav překladu: [9 / 24]
 
 ---- Sisters Arc ----
 10 - Dokončeno
-11 - Čeká na překlad
+11 - Dokončeno
 12 - Čeká na překlad
 13 - Čeká na překlad
 14 - Čeká na překlad
