@@ -8,7 +8,7 @@ Překlady anime do češtiny.
 
 Kaguja-sama wa Kokurasetai: Tensai-tači no Renai Zunousen [0 / 12]
 
-Toaru Madžucu no Index [15 / 24]
+Toaru Madžucu no Index [16 / 24]
 
 -- Dokončené
 
