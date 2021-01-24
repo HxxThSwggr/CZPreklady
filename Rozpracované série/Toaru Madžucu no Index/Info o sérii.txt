@@ -16,7 +16,7 @@ Původní Aegisub skript:		 [MoeDesuDesu] https://nyaa.si/view/1056433
 Synchronizované s:		 [VCB-Studio] https://nyaa.si/view/1080598
 
 
-Stav překladu: [16 / 24]
+Stav překladu: [17 / 24]
 
 ---- Index Arc ----
 01 - Dokončeno
@@ -41,7 +41,7 @@ Stav překladu: [16 / 24]
 ---- Angel Fall Arc ----
 15 - Dokončeno
 16 - Dokončeno
-17 - Čeká na překlad
+17 - Dokončeno
 
 ---- Three Stories Arc ----
 18 - Nerozděláno
