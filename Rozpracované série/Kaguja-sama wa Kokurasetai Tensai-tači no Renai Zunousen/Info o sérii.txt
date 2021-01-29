@@ -13,10 +13,9 @@ Původní Aegisub skript:  [Good Job! Media] https://nyaa.si/user/GoodJobMedia?f
 Synchronizované s:       [GSK_kun] https://nyaa.si/view/1192908
 
 
-Stav překladu: [0 / 12]
+Stav překladu: [1 / 12]
 
-01 - Typeset: 100%
-   - Překlad: 20%
+01 - Dokončeno
 02 - Nerozděláno
 03 - Nerozděláno
 04 - Nerozděláno

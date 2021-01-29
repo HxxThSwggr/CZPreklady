@@ -6,10 +6,10 @@ Překlady anime do češtiny.
 
 -- Rozpracované
 
-Kaguja-sama wa Kokurasetai: Tensai-tači no Renai Zunousen [0 / 12]
+	Kaguja-sama wa Kokurasetai: Tensai-tači no Renai Zunousen [1 / 12]
 
-Toaru Madžucu no Index [17 / 24]
+	Toaru Madžucu no Index [17 / 24]
 
 -- Dokončené
 
-nic -_-
+	nic -_-
