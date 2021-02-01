@@ -16,7 +16,7 @@ Původní Aegisub skript:		 [MoeDesuDesu] https://nyaa.si/view/1056433
 Synchronizované s:		 [VCB-Studio] https://nyaa.si/view/1080598
 
 
-Stav překladu: [17 / 24]
+Stav překladu: [18 / 24]
 
 ---- Index Arc ----
 01 - Dokončeno
@@ -44,7 +44,7 @@ Stav překladu: [17 / 24]
 17 - Dokončeno
 
 ---- Three Stories Arc ----
-18 - Nerozděláno
+18 - Dokončeno
 19 - Nerozděláno
 20 - Nerozděláno
 
