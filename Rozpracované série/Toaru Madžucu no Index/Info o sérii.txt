@@ -1,6 +1,6 @@
 ﻿-----------------[Toaru Madžucu no Index]-----------------
 
-Originální název:		 とある魔術の禁書目録（インデックス）
+Originální název:		 とある魔術の禁書目録
 Anglický přepis:		 Toaru Majutsu no Index
 Anglický název:			 A Certain Magical
 Český překlad:			 Jedna Magická Index
@@ -26,7 +26,7 @@ Stav překladu: [18 / 24]
 05 - Dokončeno
 06 - Dokončeno
 
----- Misawa Cram School Arc ----
+---- Deep Blood Arc ----
 07 - Dokončeno
 08 - Dokončeno
 09 - Dokončeno
@@ -48,7 +48,7 @@ Stav překladu: [18 / 24]
 19 - Nerozděláno
 20 - Nerozděláno
 
----- Kazakiri Hyouka Arc ----
+---- Kazakiri Hjóka Arc ----
 21 - Nerozděláno
 22 - Nerozděláno
 23 - Nerozděláno
