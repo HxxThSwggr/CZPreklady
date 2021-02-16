@@ -45,11 +45,11 @@ Stav překladu: [18 / 24]
 
 ---- Three Stories Arc ----
 18 - Dokončeno
-19 - Nerozděláno
-20 - Nerozděláno
+19 - Překládání
+20 - Čeká na překlad
 
 ---- Kazakiri Hjóka Arc ----
-21 - Nerozděláno
-22 - Nerozděláno
-23 - Nerozděláno
-24 - Nerozděláno
+21 - Čeká na překlad
+22 - Čeká na překlad
+23 - Čeká na překlad
+24 - Čeká na překlad
