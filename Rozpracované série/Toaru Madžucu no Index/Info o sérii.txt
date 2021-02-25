@@ -11,12 +11,12 @@ Doba vysílání:			 5. října 2008 - 19. března 2009
 Adaptováno z:			 Kamači Kazuma - Toaru Madžucu no Index (Light novela)
 Adaptované díly:		 1 - 6 (z pátého dílu jen dva ze tří příběhů)
 
-Původní překlad:		 1-10: Netflix - Pavlína Tajnerová; 11-17: [Chika]
+Původní překlad:		 1-10, 15-24: Netflix - Pavlína Tajnerová; 11-17: [Chika]
 Původní Aegisub skript:		 [MoeDesuDesu] https://nyaa.si/view/1056433
 Synchronizované s:		 [VCB-Studio] https://nyaa.si/view/1080598
 
 
-Stav překladu: [19 / 24]
+Stav překladu: [20 / 24]
 
 ---- Index Arc ----
 01 - Dokončeno
@@ -46,7 +46,7 @@ Stav překladu: [19 / 24]
 ---- Three Stories Arc ----
 18 - Dokončeno
 19 - Dokončeno
-20 - Čeká na překlad
+20 - Dokončeno
 
 ---- Kazakiri Hjóka Arc ----
 21 - Čeká na překlad
