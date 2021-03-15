@@ -49,7 +49,7 @@ Stav překladu: [20 / 24]
 20 - Dokončeno
 
 ---- Kazakiri Hjóka Arc ----
-21 - Čeká na překlad
+21 - Překládá se
 22 - Čeká na překlad
 23 - Čeká na překlad
 24 - Čeká na překlad
