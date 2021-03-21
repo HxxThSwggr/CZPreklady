@@ -50,6 +50,6 @@ Stav překladu: [21 / 24]
 
 ---- Kazakiri Hjóka Arc ----
 21 - Dokončeno
-22 - Čeká na překlad
+22 - Překládá se
 23 - Čeká na překlad
 24 - Čeká na překlad
