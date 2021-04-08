@@ -2,7 +2,6 @@
 
 Překlady anime do češtiny.
 
---- **Seznam** ---
 
 -- Rozpracované
 
