@@ -16,7 +16,7 @@ Původní Aegisub skript:		 [MoeDesuDesu] https://nyaa.si/view/1056433
 Synchronizované s:		 [VCB-Studio] https://nyaa.si/view/1080598
 
 
-Stav překladu: [21 / 24]
+Stav překladu: [22 / 24]
 
 ---- Index Arc ----
 01 - Dokončeno
@@ -50,6 +50,6 @@ Stav překladu: [21 / 24]
 
 ---- Kazakiri Hjóka Arc ----
 21 - Dokončeno
-22 - Překládá se
+22 - Dokončeno
 23 - Čeká na překlad
 24 - Čeká na překlad
